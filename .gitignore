@@ -1,0 +1,11 @@
+data/experiments/
+notebooks/mlruns
+notebooks/mlruns/*
+venv/
+venv/*
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+logs/
