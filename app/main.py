@@ -32,3 +32,4 @@ async def root():
     return f"Welcome to Product Sales Forecasting API.  {settings.api_base_path}/docs"
 
 #uvicorn app.main:app --reload --env-file .env
+#go to /product_sales_forecasting/v1/docs
